@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello this this for pull excerise f
+=======
+Hello this this for pull 
+>>>>>>> 5103645c1b4fbfededaf5f28ee9247008c82ccd6
